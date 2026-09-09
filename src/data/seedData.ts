@@ -5,7 +5,10 @@ import amigurumiPanda from '../assets/images/amigurumi_panda_1788945550156.jpg';
 import amigurumiPandaPin from '../assets/images/amigurumi_panda_pin_1788945567933.jpg';
 import crochetPatternInfographic from '../assets/images/gpt-image-2_A_clean_and_professional_4-section_step-by-step_crochet_pattern_infographic_for_-0.webp';
 import bodyAndHeadSteps from '../assets/images/Etape-par-Etape-Confectionner-le-Corps-et-la-Tete-1.webp';
+import bodyAndHeadStepsV2 from '../assets/images/Etape-par-Etape-Confectionner-le-Corps-et-la-Tete.webp';
 import finalAssemblySteps from '../assets/images/Etape-Finale-Assemblage-Parfait-et-Couture-Invisible-au-Crochet.webp';
+import suppliesSteps from '../assets/images/Les-Fournitures-Indispensables-pour-Commencer.webp';
+import earsLegsFaceSteps from '../assets/images/Realisation-des-Oreilles-des-Pattes-et-du-Visage.webp';
 import crochetCardigan from '../assets/images/crochet_cardigan_1788943536799.jpg';
 
 export const defaultAuthor: User = {
@@ -62,11 +65,11 @@ Für ein sauberes und gleichmäßiges Maschenbild lege dir folgende Materialien 
 - **Baumwollgarn:** 50g in Weiß und 30g in Schwarz (z. B. Schachenmayr Catania oder Rico Baby Cotton Soft).
 - **Häkelnadel:** Stärke 2,5 mm oder 3 mm (wähle die Nadel etwas kleiner als auf der Banderole empfohlen, damit die Maschen schön fest sind und die Füllwatte nicht herausschaut).
 - **Füllmaterial:** Hochwertige synthetische Füllwatte (Polyester-Bastelwatte).
-- **Zubehör:** Sicherheitsaugen (6 oder 8 mm), stumpfe Wollnadel zum Vernähen und Maschenmarkierer.
-
----
-
-### 2. Abkürzungen & goldene Häkelregeln
+    - **Zubehör:** Sicherheitsaugen (6 oder 8 mm), stumpfe Wollnadel zum Vernähen und Maschenmarkierer.
+    
+    ![Materialübersicht: Alle unverzichtbaren Häzubehörteile zum Ausrollen](${suppliesSteps})
+    
+    ---
 
 Hier findest du alle wichtigen Häkelabkürzungen für die folgende Anleitung:
 
@@ -138,9 +141,11 @@ Diese Details verleihen dem Panda seinen unverwechselbaren, liebevollen Ausdruck
 
 - **Die Ohren (2x in Schwarz häkeln):** Runde 1: 6 fM in einen MR [6] • Runde 2: (1 fM, 1 Zun) * 3 [9] • Runde 3: (2 fM, 1 Zun) * 3 [12] • Runden 4 bis 5: 1 fM in jede Masche [12]. *Langen Faden zum Annähen lassen. Die Ohren werden nicht ausgestopft, sondern flachgedrückt aufgenäht.*
 - **Die Augenringe (2x in Schwarz häkeln):** Schlage 4 Luftmaschen an. Häkle um die Luftmaschenkette herum mit festen Maschen (3 fM in die letzte Masche zum Wenden, dann auf der Unterseite zurück) [insgesamt 8 Maschen]. Nähe die ovalen Flecken direkt hinter bzw. um die Augen herum auf.
-- **Die Schnauze:** Mit einem Stück schwarzem Garn und der Wollnadel eine kleine dreieckige Nase mittig unterhalb der Augen aufsticken und nach unten hin einen feinen Mund in umgekehrter V-Form anbringen.
+    - **Die Schnauze:** Mit einem Stück schwarzem Garn und der Wollnadel eine kleine dreieckige Nase mittig unterhalb der Augen aufsticken und nach unten hin einen feinen Mund in umgekehrter V-Form anbringen.
 
----
+    ![Schritt-für-Schritt Bild: Ohren, Beine und Gesichtszüge des Pandabären](${earsLegsFaceSteps})
+
+    ---
 
 ### 6. Schritt für Schritt: Arme und Beine
 
