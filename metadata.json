@@ -1,0 +1,6 @@
+{
+  "name": "Die Häkelwelt",
+  "description": "Häkelanleitungen, wunderschöne Häkelmuster und kreative DIY-Ideen für Anfänger und Fortgeschrittene.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
