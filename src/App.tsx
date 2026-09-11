@@ -262,7 +262,7 @@ export default function App() {
                 </div>
 
                 <a
-                  href="https://www.pinterest.com"
+                  href="https://de.pinterest.com/Sophie_die/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="px-6 py-3 bg-[#E60023] hover:bg-[#D5001F] text-white rounded-xl font-semibold text-sm shadow-xs transition-colors flex items-center gap-2.5 whitespace-nowrap"

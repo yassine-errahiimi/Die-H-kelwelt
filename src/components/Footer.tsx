@@ -64,7 +64,7 @@ export const Footer: React.FC<FooterProps> = ({
             </p>
             <div className="flex items-center gap-3 pt-2">
               <a
-                href="https://www.pinterest.com"
+                href="https://de.pinterest.com/Sophie_die/"
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-[#E8DDD0] hover:bg-[#C98A7F] hover:text-white transition-colors text-xs font-medium text-[#3D2E24]"
