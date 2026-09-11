@@ -26,10 +26,11 @@ export function getStoredPosts(): Post[] {
     // Filter out removed posts (post-1 to post-6)
     const filtered = parsed.filter((p: Post) => !DELETED_POST_IDS.has(p.id));
     
-    // Ensure panda post is present with latest content
+    // Ensure latest default posts are present with fresh content
+    const FORCE_REFRESH_POST_IDS = new Set(['post-amigurumi-panda', 'post-schmetterlings-cardigan']);
     const updated = filtered.map((p: Post) => {
       const defaultMatch = defaultPosts.find((dp) => dp.id === p.id);
-      if (defaultMatch && (p.title.startsWith('Tuto Amigurumi') || p.id === 'post-amigurumi-panda')) {
+      if (defaultMatch && (p.title.startsWith('Tuto Amigurumi') || FORCE_REFRESH_POST_IDS.has(p.id))) {
         return defaultMatch;
       }
       return p;

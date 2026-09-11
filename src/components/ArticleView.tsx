@@ -136,17 +136,23 @@ export const ArticleView: React.FC<ArticleViewProps> = ({
             dangerouslySetInnerHTML={{ __html: parsed }}
           />
         );
-      } else if (trimmed.startsWith('## ')) {
+      } else if (trimmed.startsWith('# ')) {
         elements.push(
           <h2 key={index} className="font-editorial text-2xl sm:text-3xl font-bold text-[#3D2E24] mt-10 mb-4 pt-2">
-            {trimmed.replace('## ', '')}
+            {trimmed.replace('# ', '')}
           </h2>
+        );
+      } else if (trimmed.startsWith('## ')) {
+        elements.push(
+          <h3 key={index} className="font-editorial text-xl sm:text-2xl font-semibold text-[#3D2E24] mt-8 mb-3">
+            {trimmed.replace('## ', '')}
+          </h3>
         );
       } else if (trimmed.startsWith('### ')) {
         elements.push(
-          <h3 key={index} className="font-editorial text-xl sm:text-2xl font-semibold text-[#3D2E24] mt-8 mb-3">
+          <h4 key={index} className="font-editorial text-lg sm:text-xl font-semibold text-[#3D2E24] mt-7 mb-3">
             {trimmed.replace('### ', '')}
-          </h3>
+          </h4>
         );
       } else if (trimmed.startsWith('#### ')) {
         elements.push(
@@ -181,7 +187,13 @@ export const ArticleView: React.FC<ArticleViewProps> = ({
         const parsed = trimmed
           .replace(/\*\*(.*?)\*\*/g, '<strong class="text-[#3D2E24] font-semibold">$1</strong>')
           .replace(/\*(.*?)\*/g, '<em class="italic text-[#5C4A3E]">$1</em>')
-          .replace(/`(.*?)`/g, '<code class="bg-[#F2EBE1] px-1.5 py-0.5 rounded text-xs font-mono text-[#824438]">$1</code>');
+          .replace(/`(.*?)`/g, '<code class="bg-[#F2EBE1] px-1.5 py-0.5 rounded text-xs font-mono text-[#824438]">$1</code>')
+          .replace(/\[([^\]]+)\]\((https:\/\/www\.stitchfiddle\.com\/[^)]+)\)/g, (match, text, url) => {
+            return `<a href="${url}" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 px-4 py-2 bg-[#F5EAE7] hover:bg-[#E8C5BE] text-[#C98A7F] font-semibold rounded-xl border border-[#E8C5BE] transition-all shadow-sm cursor-pointer" style="text-decoration: none;">
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/></svg>
+              <span>${text}</span>
+            </a>`;
+          });
 
         elements.push(
           <p

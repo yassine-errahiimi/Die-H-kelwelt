@@ -10,6 +10,7 @@ import finalAssemblySteps from '../assets/images/Etape-Finale-Assemblage-Parfait
 import suppliesSteps from '../assets/images/Les-Fournitures-Indispensables-pour-Commencer.webp';
 import earsLegsFaceSteps from '../assets/images/Realisation-des-Oreilles-des-Pattes-et-du-Visage.webp';
 import crochetCardigan from '../assets/images/crochet_cardigan_1788943536799.jpg';
+import butterflyCardigan from '../assets/images/crochet_cardigan_1788943536799.jpg';
 
 export const defaultAuthor: User = {
   id: 'author-1',
@@ -192,6 +193,286 @@ Herzlichen Glückwunsch! Du hast nun alle Schritte und das genaue Zählmuster, u
     createdAt: '2026-08-15',
     updatedAt: '2026-08-15',
     readingTime: '8 Min. Lesezeit',
+    author: authorCoinCrochet,
+  },
+  {
+    id: 'post-schmetterlings-cardigan',
+    title: 'Schmetterlings-Cardigan häkeln – Eine besondere Häkelidee mit Tapestry Crochet 🦋',
+    slug: 'schmetterlings-cardigan-haekeln-tapestry-crochet',
+    excerpt: 'Du möchtest ein Häkelprojekt ausprobieren, das garantiert alle Blicke auf sich zieht? Dieser Schmetterlings-Cardigan im Monarchfalter-Stil wird mit der Tapestry-Crochet-Technik gearbeitet und besteht aus mehreren gehäkelten Teilen, die zu wunderschönen großen Schmetterlingsflügeln zusammengesetzt werden.',
+    content: `Du möchtest ein Häkelprojekt ausprobieren, das garantiert alle Blicke auf sich zieht? Dann ist dieser **Schmetterlings-Cardigan im Monarchfalter-Stil** genau das Richtige für dich.
+
+Der Cardigan wird mit der **Tapestry-Crochet-Technik** gearbeitet und besteht aus mehreren gehäkelten Teilen, die später miteinander verbunden werden. Zusammengesetzt ergeben sie wunderschöne, große Schmetterlingsflügel.
+
+Das Design kann sowohl als **Cardigan mit Knöpfen vorne** als auch als **Sweater** gearbeitet werden.
+
+In diesem Beitrag zeigen wir dir, welche Materialien du brauchst, welche Größen möglich sind und wie der Schmetterlings-Cardigan aufgebaut wird.
+
+---
+
+## 🦋 Was macht den Schmetterlings-Cardigan so besonders?
+
+Das Besondere an diesem Häkelmuster ist das große Flügelmotiv.
+
+Durch die Kombination aus verschiedenen Farben und **Tapestry Crochet** entsteht ein auffälliges Muster, das an die Flügel eines Monarchfalters erinnert.
+
+Der fertige Cardigan ist nicht nur ein gemütliches Kleidungsstück, sondern gleichzeitig ein echtes Statement-Piece.
+
+Wenn du gerne außergewöhnliche **Häkelkleidung** selber machst, ist dieses Projekt eine tolle Herausforderung.
+
+---
+
+## 🧶 Benötigte Materialien
+
+Für den Schmetterlings-Cardigan benötigst du:
+
+* Garn der Kategorie 4 – Worsted
+* Garn in 3 verschiedenen Farben
+* ca. **900–1500 m** für die Randfarbe (Braun oder Schwarz)
+* ca. **600–1000 m** für die Hauptfarbe der Flügel
+* ca. **100–200 m** weißes Garn
+* **5 mm Häkelnadel**
+* **4 mm Häkelnadel**
+* Knöpfe mit ca. **2,5 cm Durchmesser**
+* Wollnadel
+* Schere
+* Maschenmarkierer, optional
+
+### Welches Garn eignet sich?
+
+Am besten verwendest du ein Garn der Kategorie 4, das eher auf der dünneren Seite dieser Garnstärke liegt.
+
+So bleibt der Cardigan weich und beweglich und wird nicht zu steif.
+
+Besonders wichtig ist ein Garn mit schönem Fall, damit die großen Flügel später gut zur Geltung kommen.
+
+---
+
+# 📏 Welche Größe passt zu dir?
+
+Das Häkelmuster ist in drei Größen aufgeteilt.
+
+### Small – XS/S
+
+**Höhe:** ca. 48 cm [🔗 StitchFiddle](https://www.stitchfiddle.com/en/c/sh2gg0-hl6uq6)
+**Breite:** ca. 130 cm
+
+### Medium – M/L
+
+**Höhe:** ca. 57 cm [🔗 StitchFiddle](https://www.stitchfiddle.com/en/c/sh2ghs-d73fsy)
+**Breite:** ca. 150 cm
+
+### Large – XL/2XL
+
+**Höhe:** ca. 69 cm [🔗 StitchFiddle](https://www.stitchfiddle.com/en/c/sh2gh2-g5we58)
+**Breite:** ca. 166 cm
+
+---
+
+# 🧵 Wie wird der Schmetterlings-Cardigan gehäkelt?
+
+Der Cardigan wird Schritt für Schritt aus mehreren Teilen aufgebaut.
+
+## 1. Linkes Vorderteil
+
+Das erste Vorderteil bildet gleichzeitig einen Teil des Schmetterlingsflügels.
+
+Du häkelst von unten nach oben und folgst dabei dem Tapestry-Crochet-Muster.
+
+Die Hin- und Rückreihen werden entsprechend dem jeweiligen Muster gelesen.
+
+Jedes Kästchen im Muster entspricht dabei einer **festen Masche**.
+
+Durch die unterschiedlichen Farben entsteht nach und nach das charakteristische Flügelmotiv.
+
+---
+
+## 2. Rechtes Vorderteil
+
+Das rechte Vorderteil wird ähnlich wie das linke Vorderteil gearbeitet.
+
+Der Unterschied: Das Muster wird gespiegelt.
+
+Auch hier arbeitest du von unten nach oben und folgst der jeweiligen PDF-Anleitung.
+
+Bei größeren Zu- und Abnahmen werden spezielle Techniken verwendet, damit die Form des Flügels sauber entsteht.
+
+---
+
+## 3. Rückenteil
+
+Das Rückenteil wird nach demselben Prinzip gearbeitet.
+
+Hier wird das vollständige Flügelmotiv verwendet.
+
+Wenn du lieber einen schlichteren Rücken möchtest, kannst du den Rückenteil auch ohne Farbwechsel und ohne Tapestry-Muster häkeln.
+
+So entsteht ein etwas dezenterer Look, während die Vorderseite weiterhin das auffällige Schmetterlingsmotiv zeigt.
+
+---
+
+## ✨ 4. Die Kanten der einzelnen Teile
+
+Nachdem die einzelnen Teile fertig gehäkelt sind, werden ihre Kanten eingefasst.
+
+Dafür verwendest du die **4-mm-Häkelnadel**.
+
+Arbeite eine Reihe feste Maschen entlang der Kanten und achte darauf, möglichst gleichmäßig zu arbeiten.
+
+Diese Umrandung sorgt dafür, dass die einzelnen Teile stabiler werden und später sauber miteinander verbunden werden können.
+
+---
+
+# 🪡 5. Die Teile miteinander verbinden
+
+Jetzt kommt der spannende Teil.
+
+Wenn alle drei Teile fertig sind, werden sie miteinander verbunden.
+
+Du kannst dafür entweder eine **Nähtechnik** oder eine **Verbindung mit der Häkelnadel** verwenden.
+
+Eine saubere Verbindung ist besonders wichtig, damit die großen Flügel ihre Form behalten und die Übergänge von außen möglichst unauffällig aussehen.
+
+---
+
+# 🦋 6. Vorderer Abschluss, Knopfleiste und Fühler
+
+Für die Vorderseite wird anschließend eine dekorative Abschlusskante gearbeitet.
+
+Diese kann gleichzeitig als **Knopfleiste** dienen.
+
+Die Knopflöcher werden passend zur Größe deiner Knöpfe gearbeitet.
+
+Zusätzlich kannst du kleine **Schmetterlingsfühler** anbringen.
+
+Sie sind optional, geben dem Design aber einen besonders verspielten Look.
+
+Die Fühler können außerdem als dekorative Bänder zum Schließen des Cardigans verwendet werden.
+
+---
+
+# 🔘 7. Die Knöpfe
+
+Für dieses Design eignen sich Knöpfe mit einem Durchmesser von ungefähr **2,5 cm**.
+
+Je nachdem, welche Knopfgröße du verwendest, kann die Knopfleiste angepasst werden.
+
+Nähe die Knöpfe erst an, wenn die komplette Vorderkante fertig ist.
+
+So kannst du die Position der Knöpfe genau bestimmen und sicherstellen, dass der Cardigan gleichmäßig geschlossen werden kann.
+
+---
+
+# 💡 Wichtige Tipps für Tapestry Crochet
+
+Beim Arbeiten mit mehreren Farben gibt es einige Dinge zu beachten.
+
+### 1. Saubere Farbwechsel
+
+Wenn du mit derselben Farbe weiterarbeitest, wird die Masche normal durch beide Maschenschlingen gearbeitet.
+
+Bei einem Farbwechsel kann je nach Seite des Projekts nur eine bestimmte Maschenschlinge verwendet werden.
+
+Dadurch wird das Muster besonders klar und sauber.
+
+### 2. Nicht verwendete Fäden mitführen
+
+Die Farben, die du gerade nicht verwendest, solltest du beim Häkeln mitführen.
+
+So entstehen auf der Rückseite keine langen, losen Fäden.
+
+### 3. Zunahmen und Abnahmen
+
+Zunahmen und Abnahmen befinden sich normalerweise am Anfang oder Ende einer Reihe.
+
+Eine zusätzliche Masche wird als Zunahme gearbeitet, während beim Abnehmen Maschen zusammengehäkelt oder übersprungen werden.
+
+### 4. Mehrere Maschen hinzufügen
+
+Wenn du auf einer Seite zwei oder mehr Maschen hinzufügen musst, kann eine **Foundation Single Crochet** verwendet werden.
+
+Auf der anderen Seite können zusätzliche Luftmaschen gearbeitet werden.
+
+### 5. Achte auf deine Spannung
+
+Arbeite mit einer mittleren bis eher lockeren Fadenspannung.
+
+Wenn dein fertiger Cardigan sehr fest oder steif wirkt, kann ein vorsichtiges **Dämpfen bzw. Blocking** helfen.
+
+---
+
+# 👕 Cardigan oder Sweater?
+
+Du kannst dieses Design auf zwei verschiedene Arten tragen.
+
+### Schmetterlings-Cardigan
+
+Beim Cardigan werden die Vorderteile so gearbeitet, dass vorne eine Öffnung entsteht.
+
+Anschließend kannst du Knöpfe anbringen.
+
+### Schmetterlings-Sweater
+
+Wenn du lieber einen geschlossenen Sweater möchtest, kannst du zwei vollständige Flügel arbeiten und diese entsprechend miteinander verbinden.
+
+Dadurch entsteht ein geschlossener Look ohne klassische Knopfleiste.
+
+---
+
+# 🧶 Welches Garn ist am besten?
+
+Für dieses Projekt empfehlen wir **Worsted-Garn der Kategorie 4**.
+
+Wähle möglichst ein Garn, das innerhalb dieser Kategorie nicht zu dick ist.
+
+Ein zu dickes Garn kann dazu führen, dass der Cardigan sehr schwer und steif wird.
+
+Für einen schönen Fall solltest du deshalb ein Garn wählen, das weich ist und sich angenehm tragen lässt.
+
+Als Inspiration wurden für das ursprüngliche Design unter anderem Garne wie **Lion Brand Pound of Love**, **I Love This Yarn** und **Impeccable Solid Yarn** verwendet.
+
+Du kannst selbstverständlich auch ein vergleichbares Garn verwenden, das in Deutschland erhältlich ist.
+
+---
+
+# ❤️ Für wen eignet sich dieses Häkelprojekt?
+
+Der Schmetterlings-Cardigan ist ideal für dich, wenn du:
+
+* gerne außergewöhnliche Kleidung häkelst
+* Tapestry Crochet ausprobieren möchtest
+* große Häkelmotive liebst
+* farbenfrohe Cardigans magst
+* ein besonderes DIY-Projekt suchst
+* gerne individuelle Kleidung selbst machst
+
+Das Projekt ist etwas anspruchsvoller als ein einfacher Häkel-Cardigan, aber gerade deshalb besonders interessant für erfahrene Anfängerinnen und fortgeschrittene Häklerinnen.
+
+---
+
+## 🦋 Fazit
+
+Ein selbst gehäkelter Schmetterlings-Cardigan ist mehr als nur ein Kleidungsstück.
+
+Durch das große Flügelmotiv, die verschiedenen Farben und die besondere Tapestry-Crochet-Technik entsteht ein einzigartiges Design, das garantiert auffällt.
+
+Egal, ob du dich für einen offenen **Schmetterlings-Cardigan** oder einen geschlossenen **Schmetterlings-Sweater** entscheidest – dieses Projekt bietet viel Raum für deine eigenen Farbkombinationen und Ideen.
+
+**Du hast deine Flügel gehäkelt. Jetzt ist es Zeit zu fliegen. 🦋**`,
+    featuredImage: butterflyCardigan,
+    featuredImageAlt: 'Schmetterlings-Cardigan im Monarchfalter-Stil gehäkelt mit Tapestry Crochet Technik in Braun, Orange und Weiß',
+    pinterestImage: butterflyCardigan,
+    pinterestTitle: 'Schmetterlings-Cardigan häkeln: Tapestry Crochet Anleitung für Monarchfalter-Design',
+    pinterestDescription: 'Häkle deinen eigenen Schmetterlings-Cardigan! Ausführliche Anleitung mit Tapestry Crochet Technik, Größentabelle und Tipps für Anfänger und Fortgeschrittene.',
+    category: 'Kleidung',
+    tags: ['Cardigan häkeln', 'Tapestry Crochet', 'Schmetterlings-Motiv', 'Häkelanleitung Kleidung', 'Monarchfalter Design'],
+    seoTitle: 'Schmetterlings-Cardigan häkeln: Tapestry Crochet Anleitung & Muster',
+    seoDescription: 'Komplette Anleitung für Schmetterlings-Cardigan mit Tapestry Crochet. Materialliste, Größentabelle (XS-2XL), Schritt-für-Schritt Aufbau und Tipps für Farbwechsel.',
+    published: true,
+    publishedAt: '2026-09-09',
+    createdAt: '2026-09-09',
+    updatedAt: '2026-09-09',
+    readingTime: '12 Min. Lesezeit',
     author: authorCoinCrochet,
   },
 ];
